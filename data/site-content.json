@@ -1,0 +1,19 @@
+{
+  "brand": "Bao An Education",
+  "market": "Singapore",
+  "lastUpdated": "2026-10-23",
+  "schools": [
+    {"name":"James Cook University Singapore","type":"Đại học tư thục","focus":"Kinh doanh, công nghệ, tâm lý học"},
+    {"name":"Kaplan Singapore","type":"Học viện","focus":"Chương trình liên kết và chuyển tiếp"},
+    {"name":"MDIS Singapore","type":"Cao đẳng / học viện","focus":"Kinh doanh, truyền thông, kỹ thuật"}
+  ],
+  "contentTopics": [
+    "Chi phí du học Singapore",
+    "Học bổng theo trường",
+    "Student’s Pass",
+    "Lộ trình từ lớp 9",
+    "Checklist trước khi bay",
+    "Nhà ở và chi phí sinh hoạt"
+  ]
+}
+
